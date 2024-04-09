@@ -1,15 +1,15 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using UserModels;
+using Dotnet_Web_API.UserModels;
 
-namespace UsersAPI.Controllers 
+namespace Dotnet_Web_API.Controllers 
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController : ControllerBase 
+    public class UsersController : ControllerBase 
     {
         [HttpGet]
-        public async Task<IActionResult> GetAllUsers()
+        public async Task<ActionResult<List<User>>> GetAllUsers()
         {
             var users = new List<User> {
                 new User { Id = 1, FirstName = "John", LastName = "Doe" }

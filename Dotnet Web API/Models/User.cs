@@ -1,4 +1,4 @@
-namespace UserModels 
+namespace Dotnet_Web_API.UserModels 
 {
     public class User 
     {
