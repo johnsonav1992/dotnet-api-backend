@@ -1,0 +1,33 @@
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/appsettings.Development.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/appsettings.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Dotnet Web API
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Dotnet Web API.deps.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Dotnet Web API.runtimeconfig.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Dotnet Web API.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Dotnet Web API.pdb
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.csproj.AssemblyReference.cache
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.AssemblyInfoInputs.cache
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.AssemblyInfo.cs
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.csproj.CoreCompileInputs.cache
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.MvcApplicationPartsAssemblyInfo.cs
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.MvcApplicationPartsAssemblyInfo.cache
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets/msbuild.Dotnet Web API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets/msbuild.build.Dotnet Web API.props
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Dotnet Web API.props
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Dotnet Web API.props
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/scopedcss/bundle/Dotnet Web API.styles.css
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet W.251FB42C.Up2Date
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/refint/Dotnet Web API.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.pdb
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.genruntimeconfig.cache
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/ref/Dotnet Web API.dll
