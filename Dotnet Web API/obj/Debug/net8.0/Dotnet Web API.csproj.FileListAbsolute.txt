@@ -31,3 +31,4 @@
 /Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.pdb
 /Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.genruntimeconfig.cache
 /Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/ref/Dotnet Web API.dll
+/Users/Alex/dotnet-api-backend/Dotnet Web API/obj/Debug/net8.0/Dotnet Web API.sourcelink.json
